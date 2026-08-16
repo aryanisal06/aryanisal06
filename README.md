@@ -1,4 +1,4 @@
-# Hi, I'm <Arya Nisal> 🛡️
+# Hi, I'm Arya Nisal 🛡️
 
 A **2nd-Year Computer Science Undergraduate** specializing in **Cybersecurity & Defense**. I focus on operating system internals, defensive tooling, web security, and vulnerability research.
 
@@ -32,9 +32,10 @@ A **2nd-Year Computer Science Undergraduate** specializing in **Cybersecurity & 
 
 ### 📌 Pinned Repositories
 
-- **[Project Name 1](https://github.com/YOUR_USERNAME/cypherarena)** — High-level description of what the security tool/project does and how it runs.
-- **[Project Name 2](https://github.com/YOUR_USERNAME/project-2)** — Systems security tool detecting anomalous behavior or hidden processes.
-- **[CTF Writeups & Labs](https://github.com/YOUR_USERNAME/writeups)** — Documented solutions for HackTheBox, TryHackMe, and collegiate CTF challenges.
+- **Cypher Arena(https://github.com/aryanisal06/Cypher-Arena)** —An Interactive Cybersecurity Training Ground
+
+Bridging theory and practice in cybersecurity education. Cypher Arena is a gamified web platform where learners tackle real-world security challenges—from basic cryptographic ciphers to complex web application vulnerabilities.Built with a modern, secure stack (React, TypeScript, Convex, and Clerk), it features live leaderboards, progressive learning tracks, and instant feedback to make offensive and defensive security concepts accessible and engaging
+
 
 ---
 
@@ -42,14 +43,9 @@ A **2nd-Year Computer Science Undergraduate** specializing in **Cybersecurity & 
 
 <p align="left">
   <a href="https://linkedin.com/in/arya-nisal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-C20000?style=flat&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/users/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/aryanisal06"><img src="https://img.shields.io/badge/TryHackMe-C20000?style=flat&logo=tryhackme&logoColor=white" /></a>
   <a href="mailto:aryanisal06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark" width="48%" />
-</p>
