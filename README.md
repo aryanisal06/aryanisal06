@@ -32,7 +32,7 @@ A **2nd-Year Computer Science Undergraduate** specializing in **Cybersecurity & 
 
 ### 📌 Pinned Repositories
 
-- **[Project Name 1](https://github.com/YOUR_USERNAME/project-1)** — High-level description of what the security tool/project does and how it runs.
+- **[Project Name 1](https://github.com/YOUR_USERNAME/cypherarena)** — High-level description of what the security tool/project does and how it runs.
 - **[Project Name 2](https://github.com/YOUR_USERNAME/project-2)** — Systems security tool detecting anomalous behavior or hidden processes.
 - **[CTF Writeups & Labs](https://github.com/YOUR_USERNAME/writeups)** — Documented solutions for HackTheBox, TryHackMe, and collegiate CTF challenges.
 
